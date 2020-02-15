@@ -15,9 +15,9 @@ Fx <- function(x){
   return (3*sin(x)^3 - 1)
 }
 
-#Fx <- function(x){
- # return (4*sin(x)*cos(x))
-#}
+Fx <- function(x){
+  return (4*sin(x)*cos(x))
+}
 
 Biseccion <- function(a,b,i){
   e <- b-a
