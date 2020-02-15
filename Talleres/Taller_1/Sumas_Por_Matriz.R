@@ -1,11 +1,15 @@
-#-------------------
-#autores:
-#Andres Gil 
-#Erika Gonzalez 
-#Leonel Londono
-#Analisis numerico
 
-#------------------
+#--------------------------------
+# TALLER #1
+# SUMAS POR MATRIZ
+#--------------------------------
+# Integrantes
+# - Andres Camilo Giraldo Gil
+# - Erika Alejandra Gonzalez
+# - Leonel Steven Londono
+#--------------------------------
+# Analisis Numerico
+#--------------------------------
 
 matrizTriang<-function(b)
 {
@@ -38,9 +42,10 @@ cat(value,"\n")
 sumas = c(sumas,value)
   }
   
-plot(b,sumas,xlab="Tamaño matriz",ylab="Sumas por matriz",main = "Tamaño matriz vs Sumas por matriz")
+plot(b,sumas,xlab="TamaÃ±o matriz",ylab="Sumas por matriz",main = "TamaÃ±o matriz vs Sumas por matriz")
 lines(b,sumas, col = "blue")
 }
+#--------------------------------
 b<-c(10,20,30,35,40,50,60,70,80,90)
 matrizTriang(b)
 
