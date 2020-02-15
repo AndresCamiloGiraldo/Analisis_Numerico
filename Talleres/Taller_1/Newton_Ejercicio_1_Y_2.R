@@ -1,6 +1,6 @@
 #--------------------------------
 # TALLER #1
-# NEWTON EJERCICIO 1
+# NEWTON EJERCICIO 1 Y 2
 #--------------------------------
 # Integrantes
 # - Andres Camilo Giraldo Gil
