@@ -1,12 +1,15 @@
 
-#-------------------
-#autores:
-#Andres Gil 
-#Erika Gonzalez 
-#Leonel Londono
-#Analisis numerico
-
-#------------------
+#--------------------------------
+# TALLER #1
+# NATURALES
+#--------------------------------
+# Integrantes
+# - Andres Camilo Giraldo Gil
+# - Erika Alejandra Gonzalez
+# - Leonel Steven Londono
+#--------------------------------
+# Analisis Numerico
+#--------------------------------
 sumaNaturales <- function(b)
 {
   vecto <- c()
@@ -30,3 +33,5 @@ sumaNaturales <- function(b)
 b<-c(10,20,30,35,40,50,60,70,80,90,100,110,120,130,140,150)
 
 sumaNaturales(b)
+
+#--------------------------------
