@@ -3,8 +3,11 @@
 # Analisis Numerico SIMULADOR COVID-19
 
 # Integrantes
+
 Andres Camilo Giraldo Gil
+
 Erika Alejandra Gonzalez
+
 Leonel Steven Londono
 
 # Instalar estas librerias para poder ejecutar el proyecto
